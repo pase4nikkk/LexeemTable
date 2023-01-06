@@ -1,0 +1,8 @@
+public static int getItem ( ) {
+Scanner scanner = new Scanner ( System . in ) ;
+System . out . print ( " Input variable --> " ) ;
+int item = scanner . nextInt ( ) ;
+return item ;
+Scanner scanner2 = new Scanner ( System.in ) ;
+int x ;
+}
